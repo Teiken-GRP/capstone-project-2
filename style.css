@@ -1,0 +1,85 @@
+.fotoperfil{
+    border-radius: 50%;
+    border: 0.3rem solid #1E2A5E;
+    margin-left: 65px;    
+}
+.iconesskills{
+    border-radius: 33%;
+    border: 3px solid #E1D7B7;
+}
+
+.tituloSkills{
+    font-size: 400px;
+}  
+
+h1, h2{
+    font-family: 'Baskerville', sans-serif;
+    
+}
+
+h1, h2, p, li {
+    
+    color: #E1D7B7;
+}
+p{
+    text-align: left;
+    font-size: 20px !important;    
+}
+h2{
+    text-align: left;
+    padding-left: 60px;
+}
+
+.getInTouch{
+    background-color: #1E2A5E;       
+}
+
+#tituloGuilherme, #descricao, .abobora, li{
+    color: #1E2A5E;
+    
+}
+
+#skills{
+    background-color: #1E2A5E;
+    border: 10px solid #E1D7B7;
+    border-radius: 5%;
+    padding: 30px;
+    padding-bottom: 0;
+}
+
+body{
+    background-color: #E1D7B7;
+}
+
+
+@media (min-width: 1500px) {
+    #quadrado{
+        display: flex;
+    }
+}
+
+
+
+
+/*
+.gradient-background {
+    background: linear-gradient(300deg, #DFF5FF, #67C6E3, #5356FF);
+    background-size: 180% 180%;
+    animation: gradient-animation 15s ease infinite;
+  }
+
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+    */
+
+
+    
